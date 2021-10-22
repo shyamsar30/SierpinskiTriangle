@@ -11,6 +11,7 @@ import javafx.scene.paint.Color;
 import javafx.scene.shape.Polygon;
 import javafx.stage.Stage;
 
+//Test
 public class SierpinskiTriangle extends Application {
 
     public static void main(String[] args) {
